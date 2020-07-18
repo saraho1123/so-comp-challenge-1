@@ -1,0 +1,131 @@
+.header {
+  display: block;
+  background: #012A5E;
+  font: small-caps bold 24px/1 sans-serif;
+  color: #ccd4de;
+}
+
+/* .flame {
+  width: 100%;
+  height: auto;
+} */
+
+.dragon-character-traits {
+  padding: 1em;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.shares {
+  padding: 1em;
+}
+
+.add-dragon {
+  padding: 1em;
+}
+
+.personal {
+  padding: 1em;
+}
+
+.title-bar {
+  display: box;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.container {
+  padding: 5%;
+  font: small-caps bold 1em/1 sans-serif;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 20px;
+}
+
+.container img {
+  width: 100%;
+  max-height: auto;
+  justify-content: center;
+}
+
+.nightfury-img {
+  transform: rotateY(180deg);
+}
+
+.text {
+  padding: .2em;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+.container h2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container h1 {
+  background: black;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container p {
+  padding: .5em;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+}
+
+.nightfury-card {
+  background: #33547e;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  order: 1;
+}
+
+.lightfury-card {
+  background: #ccd4de;
+  color: white;
+  order: 2;
+}
+
+.razorwhip-card {
+  background: silver;
+  color: white;
+  order: 7;
+}
+
+.changewing-card {
+  background: #542c25;
+  color: white;
+  order: 8;
+}
+
+.deadlynadder-card {
+  background: #ce9362;
+  color: white;
+  order: 3;
+}
+
+.deathsong-card {
+  background: #5c4563;
+  color: white;
+  order: 4;
+}
+
+.monstrousnightmare-card {
+  background: #971c0e;
+  color: white;
+  order: 5;
+}
+
+.zippleback-card {
+  background: #616441;
+  color: white;
+  order: 6;
+}
