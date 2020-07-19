@@ -15,7 +15,7 @@ There are several additional requirements that I was not familiar enough with to
   - Developer must use normalize or reset file in css
   - Allowed to use flex-box and/or grid (I used these to varying degrees of success.)
 
-I included my son in this project. I did this because our class talked about designer empathy during this project. One thing that I loved from that lesson that programming is about humans helping humans. By including him, it brought a bit of that humanity to the project that I believe is really important to software development. Plus it made this fun, which I also think is important to remember to include in our work!
+I included my son in this project. I did this because our class talked about designer empathy during this project. One thing that I loved from that lesson is that programming is about humans helping humans. By including him, it brought a bit of that humanity to the project that I believe is really important to software development. Plus it made this fun, which I also think is important to remember to include in our work!
 
 Here is the static site we made together:
 
