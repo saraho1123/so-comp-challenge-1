@@ -1,4 +1,4 @@
-This project asked for us to create a static web page from a comp provided to us. We had creative license with:
+This project asked us to create a static web page from a comp provided to us. We had creative license with:
   - Copy
   - Images
   - Icons
@@ -10,8 +10,8 @@ This is the comp that was provided to us:
 
 The basic requirements included setting up a static site and making the site responsive. Although what I made is somewhat responsive, this part needs more work.
 
-There are several additional requirements that I was not familiar enough with to fully complete in the time alloted. I to plan to come back to these:
-  - Site must work across Firefox, Safari, and Chrome (I complete this one!)
+There are several additional requirements that I was not familiar enough with to fully complete in the time alloted. I do plan to come back to these:
+  - Site must work across Firefox, Safari, and Chrome (I completed this one!)
   - Developer must use normalize or reset file in css
   - Allowed to use flex-box and/or grid (I used these to varying degrees of success.)
 
