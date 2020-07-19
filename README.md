@@ -22,3 +22,5 @@ Here is the static site we made together:
 ![Dragon Character Traits 1](./readme-images/dragon-character-traits-1.png)
 
 ![Dragon Character Traits 2](./readme-images/dragon-character-traits-2.png)
+
+![Dragon Character Traits 2](./readme-images/dragon-character-traits-isaac.png)
