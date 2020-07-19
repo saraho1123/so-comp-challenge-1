@@ -129,3 +129,16 @@
   color: white;
   order: 6;
 }
+
+.isaacs-help {
+  display: block;
+  height: 2em;
+  background: #012A5E;
+  font: small-caps bold 24px/1 sans-serif;
+  color: #ccd4de;
+}
+
+.isaacs-dragon {
+  width: 300px;
+  height: auto;
+}

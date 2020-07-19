@@ -8,7 +8,7 @@ This is the comp that was provided to us:
 
 ![static comp layout provide](./readme-images/static-comp-layout.jpg)
 
-The basic requirements included setting up a basic static site and making the site responsive.
+The basic requirements included setting up a static site and making the site responsive.
 
 More work in needed on making it responsive.
 
@@ -21,6 +21,6 @@ I included my son in this project to make it more fun I also did this because we
 
 Here is the static site we made together:
 
-![Dragon Character Traits 1](./readme-images/dragon-character-traits-1.jpg)
+![Dragon Character Traits 1](./readme-images/dragon-character-traits-1.png)
 
-![Dragon Character Traits 2](./readme-images/dragon-character-traits-2.jpg)
+![Dragon Character Traits 2](./readme-images/dragon-character-traits-2.png)
